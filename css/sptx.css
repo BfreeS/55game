@@ -1,4 +1,7 @@
-
+.main .box{
+  display:flex;
+  justify-content: center;
+}
 
 .main .box .sub-category > div {
   padding: 12px 0 0 2.1%;
